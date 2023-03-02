@@ -1,0 +1,124 @@
+{
+  "users": {
+    "6285746544009@s.whatsapp.net": {
+      "name": "Kruta©️",
+      "limit": 100,
+      "monay": 0,
+      "darah": 100,
+      "besi": 5,
+      "emas": 1,
+      "emerald": 1,
+      "umpan": 1,
+      "potion": 1,
+      "ikan": 0,
+      "ayam": 0,
+      "kelinci": 0,
+      "domba": 0,
+      "sapi": 0,
+      "gajah": 0,
+      "delete": {
+        "type": "",
+        "text": "",
+        "url": ""
+      }
+    },
+    "6285732501602@s.whatsapp.net": {
+      "name": "Kruta",
+      "limit": 100,
+      "monay": 0,
+      "darah": 100,
+      "besi": 5,
+      "emas": 1,
+      "emerald": 1,
+      "umpan": 1,
+      "potion": 1,
+      "ikan": 0,
+      "ayam": 0,
+      "kelinci": 0,
+      "domba": 0,
+      "sapi": 0,
+      "gajah": 0,
+      "delete": {
+        "type": "",
+        "text": "",
+        "url": ""
+      }
+    }
+  },
+  "banned": {},
+  "chats": {
+    "120363030222012584@g.us": {
+      "name": "Fjjf",
+      "antilink": false,
+      "antilinkgc": false,
+      "antilinkytchannel": false,
+      "antilinkytvideo": false,
+      "antilinkfb": false,
+      "antilinkig": false,
+      "antilinktele": false,
+      "antilinkwa": false,
+      "antilinktiktok": false,
+      "antilinktwitter": false,
+      "antivirtex": false,
+      "antiasing": false,
+      "antitag": false,
+      "antidelete": false,
+      "antiviewonce": false,
+      "antitoxic": false,
+      "antisange": false,
+      "antinsfw": false,
+      "autorespongc": false,
+      "autoreact": false,
+      "autobugreact": false,
+      "mute": false,
+      "welcome": false,
+      "culik": {
+        "status": false,
+        "penculik": "",
+        "member": []
+      }
+    }
+  },
+  "data": [],
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "settings": {
+    "6285732501602@s.whatsapp.net": {
+      "nomerowner": "6288888888888",
+      "namaowner": "RizkyEditz",
+      "copyright": "RizkyEditz",
+      "setmenu": "image",
+      "setwelcome": "image",
+      "replytype": "web1",
+      "auto": "recording",
+      "anticall": false,
+      "public": true,
+      "autovn": false,
+      "autosticker": false,
+      "autorespon": false,
+      "autoread": false,
+      "autobug": {
+        "status": false,
+        "expired": 0
+      }
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "owner": {},
+  "sticker": {},
+  "stickernye": {},
+  "audionye": {}
+}
